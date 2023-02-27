@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #ecf3ed;
+}
+
+#projects {
+  background-color: #ecf3ed;
+}
+.col-3 {
+  width: 30.33%;
+  box-sizing: border-box;
+  float: left;
+  text-align: center;
+}
+section {
+  padding-top: 5rem;
+}
